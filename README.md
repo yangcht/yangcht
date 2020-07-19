@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-<h1 align="left">Hi 👋, I'm Chentao!   
+<h1 align="left">Hi there 👋, I'm Chentao!   
 <a href="https://twitter.com/cht_yang" target="blank">
   <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cht_yang" height="20" width="20" />
 </a>
