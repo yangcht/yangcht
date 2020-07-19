@@ -10,7 +10,7 @@
 <h4 align="left">I do astrophysical researches, mostly about galaxies. Check more on my website: http://cyang.pro</h4>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=yangcht&show_icons=true" alt="yangcht" /> </p>
 
+[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=yangcht&show_icons=true" alt="yangcht" /> </p>)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yangcht" alt="yangcht" /> </p>
 </p>
