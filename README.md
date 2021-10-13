@@ -8,7 +8,7 @@
 </a>
 </h1> 
 
-<h4 align="left">I do astrophysical researches, mostly about galaxies. Check more on my website: http://cyang.pro</h4>
+<h4 align="left">I do astrophysical researches, mostly about galaxies. Check more on my website: https://cyang.pro</h4>
 
 
 
