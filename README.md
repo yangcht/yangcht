@@ -8,8 +8,7 @@
 </a>
 </h1> 
 
-<h4 align="left">I do astrophysical researches, mostly about galaxies. Check more on my website: https://cyang.pro</h4>
-
+<h4 align="left">I do astrophysical research, mostly about galaxies. Check more on my website: https://cyang.pro</h4>
 
 
 [//]: # (<img src="https://github-readme-stats.vercel.app/api?username=yangcht&show_icons=true" alt="yangcht" /> </p>)
